@@ -29,7 +29,12 @@ The datasets (train and test data) for the project wwere provided by Explore AI 
 
 
 #### Summary of Exploratory Data Analysis
+![retweets](images/retweets.png)
+
+The bars by the left indicates the total number of tweets in the dataset. From the right hand charts, tweets with pro sentiment has the most retweets, almost twice the number of tweets. This shows that there is a general believe in climate change and its effect.
+
+![handles](images/handles.png)
+Donald Trump has the most tweets classified as Neutral or Negative. These tweets do not believe in climate change.
 
 
-
-#### Summary of Exploratory Data Analysis
+#### Summary of Data Preprocessing 
